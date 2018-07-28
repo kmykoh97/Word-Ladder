@@ -70,6 +70,5 @@ download from https://jasmine.github.io/pages/getting_started.html
 ```
 
 By Meng Yit Koh  
-517030990022  
 Shanghai Jiao Tong University  
-SE112  
+Software Engineering  
